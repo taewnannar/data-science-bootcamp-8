@@ -10,4 +10,8 @@ my data portfolio for data analyst role
 - data visualization
 - Essential statistics for data analyst
 - Essential ML for data analyst
-- ....
+- Python programming
+- Essential python for data analyst
+- dashboard
+
+you can find me on ...
